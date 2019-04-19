@@ -1,0 +1,47 @@
+C:\Users\hackc_000\source\repos\XakepFS\bin\Debug\XakepFS.exe.config
+C:\Users\hackc_000\source\repos\XakepFS\bin\Debug\XakepFS.exe
+C:\Users\hackc_000\source\repos\XakepFS\bin\Debug\XakepFS.pdb
+C:\Users\hackc_000\source\repos\XakepFS\bin\Debug\DokanNet.dll
+C:\Users\hackc_000\source\repos\XakepFS\bin\Debug\StringInterpolationBridge.dll
+C:\Users\hackc_000\source\repos\XakepFS\bin\Debug\de\DokanNet.resources.dll
+C:\Users\hackc_000\source\repos\XakepFS\bin\Debug\fr\DokanNet.resources.dll
+C:\Users\hackc_000\source\repos\XakepFS\bin\Debug\sv\DokanNet.resources.dll
+C:\Users\hackc_000\source\repos\XakepFS\obj\Debug\XakepFS.csprojAssemblyReference.cache
+C:\Users\hackc_000\source\repos\XakepFS\obj\Debug\XakepFS.csproj.CoreCompileInputs.cache
+C:\Users\hackc_000\source\repos\XakepFS\obj\Debug\XakepFS.csproj.CopyComplete
+C:\Users\hackc_000\source\repos\XakepFS\obj\Debug\XakepFS.exe
+C:\Users\hackc_000\source\repos\XakepFS\obj\Debug\XakepFS.pdb
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\filesystem.json
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\XakepFS.exe.config
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\XakepFS.exe
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\XakepFS.pdb
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\DokanNet.dll
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\StringInterpolationBridge.dll
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\de\DokanNet.resources.dll
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\fr\DokanNet.resources.dll
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\bin\Debug\sv\DokanNet.resources.dll
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.csprojAssemblyReference.cache
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.csproj.CoreCompileInputs.cache
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.csproj.CopyComplete
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.exe
+C:\Users\hackc_000\Desktop\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.pdb
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\filesystem.json
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\XakepFS.exe.config
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\XakepFS.exe
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\XakepFS.pdb
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\DokanNet.dll
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\StringInterpolationBridge.dll
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\de\DokanNet.resources.dll
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\fr\DokanNet.resources.dll
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\bin\Debug\sv\DokanNet.resources.dll
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.csprojAssemblyReference.cache
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.csproj.CoreCompileInputs.cache
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.csproj.CopyComplete
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.exe
+C:\Users\31\Documents\GitHub\Fileshare\Файловая система\FS\XakepFS\obj\Debug\XakepFS.pdb
